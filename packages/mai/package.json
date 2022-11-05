@@ -1,0 +1,13 @@
+{
+  "name": "mai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "web-vitals": "^3.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}

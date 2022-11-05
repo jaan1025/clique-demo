@@ -1,0 +1,1 @@
+export { onTTFB } from "web-vitals";

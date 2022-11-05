@@ -1,0 +1,1 @@
+export { onFCP } from "web-vitals";

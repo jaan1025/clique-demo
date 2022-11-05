@@ -1,0 +1,1 @@
+export { onLCP } from "web-vitals";

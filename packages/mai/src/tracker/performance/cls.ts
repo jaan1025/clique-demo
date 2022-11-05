@@ -1,0 +1,1 @@
+export { onCLS } from "web-vitals";
